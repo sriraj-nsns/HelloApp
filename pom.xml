@@ -9,8 +9,13 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
+<<<<<<< HEAD
         <maven.compiler.source>26</maven.compiler.source>
         <maven.compiler.target>26</maven.compiler.target>
+=======
+        <maven.compiler.source>25</maven.compiler.source>
+        <maven.compiler.target>25</maven.compiler.target>
+>>>>>>> 8e04be10db788c6156ae2c1a4bf6b03bd49732d1
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
